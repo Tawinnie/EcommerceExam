@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "../../Class_Contact"
+		},
+		{
+			"path": ".."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "Class_Contact"
+	}
+}
