@@ -1,5 +1,0 @@
-<?php
-	// landing/index page
-?>
-
-	
